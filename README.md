@@ -1,3 +1,3 @@
-# Cache_Simulator
+# CPU_Cache_Simulator
 
 ## Overview: 🗣️ 
